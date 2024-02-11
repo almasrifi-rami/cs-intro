@@ -1,0 +1,8 @@
+bin/
+cs-intro/
+include/
+lib/
+lib64
+*.cfg
+**/__pycache__
+**/__MACOSX
