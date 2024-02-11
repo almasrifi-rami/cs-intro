@@ -28,4 +28,4 @@ Continuing with classes to make an RSS feed to filter news stories from a websit
 
 ## Final words
 
-Overall the course covers the basics of programming with Python and the core elements of programming. The problem sets are the most notable about it with a lot of fun and practice to show for in this course.
+Overall the course covers the basics of programming with Python and the core elements of programming. The problem sets are the most notable about it with a lot of fun and practice to show for in this course. I would recommend taking this course for anyone interested in starting to learn programming and anyone looking for a quick review of fundamentals.
